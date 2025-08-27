@@ -48,7 +48,7 @@
     "@react-stately/utils": "3.10.8",
     "@react-stately/form": "3.2.0",
     "@react-types/textfield": "3.12.4",
-    "input-otp": "1.4.1",
+    "input-otp": "1.4.2",
     "@react-aria/focus": "3.21.0"
   },
   "devDependencies": {
